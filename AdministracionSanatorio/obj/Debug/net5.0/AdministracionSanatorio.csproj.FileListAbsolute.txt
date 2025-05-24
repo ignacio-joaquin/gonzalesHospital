@@ -1,0 +1,16 @@
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.csproj.AssemblyReference.cache
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.GeneratedMSBuildEditorConfig.editorconfig
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.AssemblyInfoInputs.cache
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.AssemblyInfo.cs
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.csproj.CoreCompileInputs.cache
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio.deps.json
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio.runtimeconfig.json
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio.runtimeconfig.dev.json
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio.dll
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/ref/AdministracionSanatorio.dll
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/bin/Debug/net5.0/AdministracionSanatorio.pdb
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.dll
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/ref/AdministracionSanatorio.dll
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.pdb
+/home/nasho/Desktop/gonzales/AdministracionSanatorio/AdministracionSanatorio/obj/Debug/net5.0/AdministracionSanatorio.genruntimeconfig.cache
